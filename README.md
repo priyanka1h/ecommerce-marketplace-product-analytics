@@ -30,3 +30,11 @@ The marketplace faces:
 - Personalized Recommendations
 - Delivery ETA Improvements
 - Customer Re-engagement Campaigns
+
+- ## Portfolio & Documentation
+
+Full Case Study (Notion):
+https://app.notion.com/p/E-Commerce-Product-Analytics-Growth-Case-Study-363f98c493ba80da8533ecfac68db738?source=copy_link        
+
+GitHub Repository:
+https://github.com/priyanka1h/ecommerce-marketplace-product-analytics         
